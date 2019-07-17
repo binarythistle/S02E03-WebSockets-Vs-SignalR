@@ -1,0 +1,84 @@
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\s02\S02E03\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_3\obj\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\d652479\OneDrive - Telstra\VSCode\S02\S02E03\WebSocketServer_Build_4\obj\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\WebSocketServer_Build_5\obj\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\bin\Debug\netcoreapp2.2\WebSocketServer.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\S02\S02E03\Prod\WebSocketServer\obj\Debug\netcoreapp2.2\WebSocketServer.pdb

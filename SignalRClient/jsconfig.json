@@ -1,0 +1,3 @@
+{
+    "include": ["lib/signalr/dist/browser/signalr.js"]
+}
